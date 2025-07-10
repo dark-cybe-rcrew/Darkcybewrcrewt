@@ -113,7 +113,7 @@ const port = process.env.PORT || 9090;
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-  let up = `*Hello there BOT User! \ud83d\udc4b\ud83c\udffb* \n\n> Powered BY 🇱🇰▸⊑͎␟𝐃▲ʀ͟͞ᴋ𔕊ᴄ͟͞ʏ͟͞ʙ͟͞ᴇ͟͞ʀ𔕊ᴄ͟͞ʀ͟͞ᴇ͟͞ᴡ␟⊒͎🇱🇰 \ud83d\udda4`;
+  let up = `*Hello there BOT User! ඔයාගෙ බොට් කනෙට් උනා🥰`;
     conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/5wr7e6.jpg` }, caption: up })
   }
   })
